@@ -1,0 +1,13 @@
+.md1 {
+  display: flex;
+  justify-content: center;
+  /* align-self: center; */
+  align-items: flex-end;
+}
+
+.form1 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+  justify-content: center;
+}
